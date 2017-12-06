@@ -1,0 +1,8 @@
+{
+  "name": "CLoud-bot",
+  "version": "1.0.0",
+  "description": "Angelinthecloud's bot",
+  "main": "bot.js",
+  "author": "Angelinthecloud",
+  "dependencies": {}
+}
